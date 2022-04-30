@@ -1,0 +1,4 @@
+#Sat Apr 30 15:57:29 TRT 2022
+base.0=C\:\\Users\\Nailcan\\StudioProjects\\AkademiFlutter56\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
