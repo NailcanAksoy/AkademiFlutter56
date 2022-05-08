@@ -19,13 +19,21 @@ Ayşegül Eyrice: Developer
 ## Ürün Açıklaması
 Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağız. Uygulamamız sayesinde çevrenizde sahiplenilmeyi bekleyen hayvan ilanlarını türlerine göre kategorize edip size sunacağız ve uygulama üzerinden ilan sahipleri ile iletişime geçip sahiplenme talebinde bulunabileceksiniz.
 ## Ürünün Özellikleri
+
 Hayvanları türlerine göre filtreleme
+
 Hayvanları konuma göre filtreleme
+
 ## Hedef Kitle
+
 Hayvanseverler
+
 Hayvan barınakları
+
 18 üstü kullanıcılar
+
 ## Product  Backlog URL
+
 <>
 # Sprint 1
 
