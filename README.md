@@ -75,7 +75,7 @@ Sprint Board screenshotları:
 
 Sprint Review:
 
-Belirlediğimiz plana uymaya devam edip uygulamada değiştirilmesi gereken özellikler kararlaştırılmıştır.
+Belirlediğimiz plana uymaya devam edip uygulamada değiştirilmesi gereken özellikler kararlaştırılmıştır. 
 
 Sprint Review Katılımcıları: Ayşegül Eyrice, Furkan Avcu, Furkan Beyaz, Nailcan Aksoy
 
@@ -84,6 +84,8 @@ Sprint Retrospective:
 Uygulamanın tasarımında bazı değişikliklere gidildi. 
 
 Okul hayatımızda göz önünde bulundurularak bir plan oluşturuldu. 
+
+Görev dağılımları yeniden ayarlanıp kesinleştirildi.
 
 # Sprint 2
 
