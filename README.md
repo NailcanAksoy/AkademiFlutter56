@@ -36,7 +36,10 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 
 ## Product  Backlog URL
 
-<>
+<(Url eklenecek tasarım yaptığımız uygulama url paylaşımında sorun çıkardı şimdilik excel hali var.)>
+
+[Sprintler](https://github.com/NailcanAksoy/AkademiFlutter56/files/8655085/Sprintler_1652127385.xlsx)
+
 
 # Sprint 1
 
@@ -61,6 +64,10 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 -Daily scrumlar whatsapp ve discord üzerinden yapılmasına karar verilmiştir.
 
 -[Daily scrumlar whatsapp ekran görüntüleri ve discord toplantısı görüntüleri]: https://drive.google.com/drive/folders/11GD4_xDMncDvZlX3niQJ6bgtCn0bvsnr?usp=sharing
+
+Sprint Board screenshotları:
+
+![Sprint Board Update](https://user-images.githubusercontent.com/104436158/167491584-88527080-236c-4cae-88df-d989e5dd90c0.png)
 
 Ürün Durumu:
 
