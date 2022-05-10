@@ -36,7 +36,7 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 
 ## Product  Backlog URL
 
-![Product  Backlog URL:](https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m)
+[Product  Backlog URL:](https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m)
 
 # Sprint 1
 
