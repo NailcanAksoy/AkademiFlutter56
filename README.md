@@ -36,10 +36,7 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 
 ## Product  Backlog URL
 
-<(Url eklenecek tasarım yaptığımız uygulama url paylaşımında sorun çıkardı şimdilik excel hali var.)>
-
-[Sprintler](https://github.com/NailcanAksoy/AkademiFlutter56/files/8655085/Sprintler_1652127385.xlsx)
-
+<https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m>
 
 # Sprint 1
 
@@ -55,9 +52,9 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 
 -Uygulamanın renk teması ve fotoğraflar kararlaştırıldı.
 
--Puanlama mantığı toplamda proje boyunca toplam tamamlanması gereken puan sayısı 35'tir.
+-Puan tamamlama mantığı, toplamda proje boyunca tamamlanması gereken 35 puanlık backlog bulunmaktadır. 
 
--Bu sprintte tamamlanan puan 4'tür
+-Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın çeyreğinden az tutulmuştur.
 
 ## Daily Scrum 
 
