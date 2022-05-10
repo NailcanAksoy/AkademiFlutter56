@@ -36,7 +36,7 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 
 ## Product  Backlog URL
 
-<https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m>
+![Product  Backlog URL:](https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m)
 
 # Sprint 1
 
@@ -64,7 +64,8 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 
 Sprint Board screenshotları:
 
-![Sprint Board Update](https://user-images.githubusercontent.com/104436158/167491584-88527080-236c-4cae-88df-d989e5dd90c0.png)
+![Sprint Board Update](https://user-images.githubusercontent.com/104436158/167708971-e43632b7-07f6-4829-b126-291302d65a15.png)
+)
 
 Ürün Durumu:
 
