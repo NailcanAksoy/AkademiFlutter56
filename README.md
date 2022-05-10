@@ -52,9 +52,15 @@ Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
 
 -Uygulamanın renk teması ve fotoğraflar kararlaştırıldı.
 
--Puan tamamlama mantığı, toplamda proje boyunca tamamlanması gereken 35 puanlık backlog bulunmaktadır. 
+-Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
 
--Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın çeyreğinden az tutulmuştur.
+
+
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 35 puanlık backlog bulunmaktadır. 
+
+-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın çeyreğinden az tutulmuştur.
+
+-Story'ler yapılacak işlere bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 ## Daily Scrum 
 
@@ -65,7 +71,7 @@ Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
 Sprint Board screenshotları:
 
 ![Sprint Board Update](https://user-images.githubusercontent.com/104436158/167708971-e43632b7-07f6-4829-b126-291302d65a15.png)
-)
+
 
 Ürün Durumu:
 
