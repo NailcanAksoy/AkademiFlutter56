@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-class AdvertiseScreen extends StatefulWidget {
-  const AdvertiseScreen({Key? key}) : super(key: key);
+class AdoptScreen extends StatefulWidget {
+  const AdoptScreen({Key? key}) : super(key: key);
 
   @override
-  _AdvertiseScreenState createState() => _AdvertiseScreenState();
+  _AdoptScreenState createState() => _AdoptScreenState();
 }
 
-class _AdvertiseScreenState extends State<AdvertiseScreen> {
+class _AdoptScreenState extends State<AdoptScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -59,7 +59,7 @@ class ReadySelectionScreenState extends State<ReadySelectionScreen> {
                   Navigator.push(
                       context,
                       MaterialPageRoute(
-                          builder: (context) => AdvertiseScreen())); //  // İlanlara Bak Ekranına Yönlendiriyor
+                          builder: (context) => AdoptScreen())); //  // İlanlara Bak Ekranına Yönlendiriyor
                 },
                 color: Colors.amber,
                 child: Container(

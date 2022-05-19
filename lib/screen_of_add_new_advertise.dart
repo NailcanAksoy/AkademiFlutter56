@@ -13,8 +13,8 @@ class ScreenOfCreateAdvertisement extends StatefulWidget {
 
 class _ScreenOfCreateAdvertisementState
     extends State<ScreenOfCreateAdvertisement> {
-  var itemsOfGender = ['Dişi', 'Erkek', 'Bilinmiyor'];
-  String dropdownvalue = 'Bilinmiyor';
+  var itemsOfGender = ['Dişi', 'Erkek', 'Belirsiz'];
+  String dropdownvalue = 'Belirsiz';
   bool circular = false;
   late PickedFile _imageFile;
   final _globalkey = GlobalKey<FormState>();
@@ -297,7 +297,7 @@ class _ScreenOfCreateAdvertisementState
         ),
         labelText: "Cinsiyet",
         helperText: "Cinsiyet bilgisi verilmelidir",
-        hintText: "Bilinmiyor",
+        hintText: "Cinsiyet",
       ),
     );
   }
