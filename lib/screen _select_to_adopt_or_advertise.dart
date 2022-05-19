@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:untitled/screen_of_add_new_advert.dart';
 import 'package:untitled/screen_of_adopt.dart';
+import 'package:untitled/screen_of_add_new_advertise.dart';
 
 class SelectionScreen extends StatelessWidget {
   const SelectionScreen({Key? key}) : super(key: key);
