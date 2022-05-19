@@ -23,6 +23,7 @@ class _ScreenOfCreateAdvertisementState
   TextEditingController _dateOfBirthOfPet = TextEditingController();
   TextEditingController _genderOfPet = TextEditingController();
   TextEditingController _address = TextEditingController();
+  TextEditingController _typeOfPetTextField = TextEditingController();
   final ImagePicker _picker = ImagePicker();
 
   @override
@@ -31,6 +32,7 @@ class _ScreenOfCreateAdvertisementState
       appBar: AppBar(
         centerTitle: true,
         title: const Text("Can Dostum"),
+        elevation: 5.0,
       ),
       body: Form(
         key: _globalkey,
@@ -42,6 +44,12 @@ class _ScreenOfCreateAdvertisementState
               height: 20,
             ),
             nameofPetTextField(),
+
+            SizedBox(
+              height: 20,
+            ),
+            typeOfPetTextField(),
+
             SizedBox(
               height: 20,
             ),
@@ -73,6 +81,7 @@ class _ScreenOfCreateAdvertisementState
                     "_dateOfBirthOfPet": _dateOfBirthOfPet.text,
                     "_genderOfPet": _genderOfPet.text,
                     "_address": _address.text,
+                    "_typeOfPetTextField": _typeOfPetTextField.text,
                   };
                 }
               },
@@ -211,6 +220,35 @@ class _ScreenOfCreateAdvertisementState
         labelText: "Can dostunun adı",
         helperText: "Ad kısmı boş bırakılamaz",
         hintText: "Boncuk",
+      ),
+    );
+  }
+
+  Widget typeOfPetTextField() {
+    return TextFormField(
+      controller: _nameOfPet,
+      validator: (value) {
+        if (value!.isEmpty) return "Tür Boş Bırakılamaz !";
+
+        return null;
+      },
+      decoration: InputDecoration(
+        border: OutlineInputBorder(
+            borderSide: BorderSide(
+              color: Colors.blue,
+            )),
+        focusedBorder: OutlineInputBorder(
+            borderSide: BorderSide(
+              color: Colors.amber,
+              width: 2,
+            )),
+        prefixIcon: Icon(
+          Icons.info,
+          color: Colors.blue,
+        ),
+        labelText: "Can dostunun Türü",
+        helperText: "Tür kısmı boş bırakılamaz",
+        hintText: "Golden Retriever",
       ),
     );
   }

@@ -61,6 +61,7 @@ class ReadySelectionScreenState extends State<ReadySelectionScreen> {
                       MaterialPageRoute(
                           builder: (context) => AdoptScreen())); //  // İlanlara Bak Ekranına Yönlendiriyor
                 },
+                elevation: 20.0,
                 color: Colors.amber,
                 child: Container(
                   width: double.infinity,
@@ -87,6 +88,7 @@ class ReadySelectionScreenState extends State<ReadySelectionScreen> {
                             builder: (context) =>
                                 ScreenOfCreateAdvertisement())); // İlan ver Ekranına Yönlendiriyor.
                   },
+                  elevation: 20.0,
                   color: Colors.blue,
                   child: Container(
                     width: double.infinity,
