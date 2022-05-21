@@ -54,8 +54,6 @@ Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
 
 -Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
 
-
-
 -Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 35 puanlık backlog bulunmaktadır. 
 
 -Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın çeyreğinden az tutulmuştur.
@@ -92,5 +90,43 @@ Okul hayatımızda göz önünde bulundurularak bir plan oluşturuldu.
 Görev dağılımları yeniden ayarlanıp kesinleştirildi.
 
 # Sprint 2
+
+
+-Discord üzerinden haftalık toplantılar düzenlendi.
+
+-Kullanıcı arayüzü tasarımı bitirildi.
+
+-Yeniden detaylı bir şekilde görev dağılımı yapıldı.
+
+-Ürünün özelliklerinde değişikliklere gidildi.
+
+-Firebase tasarımı tamamlandı.
+
+-Sprint içinde tamamlanması tahmin edilen puan: 20 Puan
+
+## Daily Scrum 
+
+-Daily scrumlar whatsapp ve discord üzerinden yapılmasına karar verilmiştir.
+
+-Daily scrumlar whatsapp ekran görüntüleri ve discord toplantısı görüntüleri: https://drive.google.com/drive/folders/11GD4_xDMncDvZlX3niQJ6bgtCn0bvsnr?usp=sharing
+
+Sprint Board screenshotları:
+
+![Sprint Board Update](![Screenshot_1](https://user-images.githubusercontent.com/104436158/169658918-be60a65f-c8f4-44e5-b594-7ca83aac1dc5.png)
+
+
+
+Ürün Durumu:
+
+![Ürün Ekran Görüntüsü:]
+
+Sprint Review:
+
+Yapılacak(22.05.2022)
+
+Sprint Retrospective:
+
+Yapılacak(22.05.2022)
+
 
 # Sprint 3
