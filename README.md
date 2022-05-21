@@ -112,7 +112,8 @@ Görev dağılımları yeniden ayarlanıp kesinleştirildi.
 
 Sprint Board screenshotları:
 
-![Sprint Board Update](![Screenshot_1](https://user-images.githubusercontent.com/104436158/169658918-be60a65f-c8f4-44e5-b594-7ca83aac1dc5.png)
+Sprint Board Update
+(![Screenshot_1](https://user-images.githubusercontent.com/104436158/169658918-be60a65f-c8f4-44e5-b594-7ca83aac1dc5.png)
 
 
 
