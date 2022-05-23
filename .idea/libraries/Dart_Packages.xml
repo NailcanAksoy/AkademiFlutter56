@@ -117,7 +117,7 @@
         <entry key="http_parser">
           <value>
             <list>
-              <option value="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
+              <option value="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/lib" />
             </list>
           </value>
         </entry>
@@ -145,7 +145,7 @@
         <entry key="image_picker_ios">
           <value>
             <list>
-              <option value="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+2/lib" />
+              <option value="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/lib" />
             </list>
           </value>
         </entry>
@@ -284,11 +284,11 @@
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-3.3.5/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4/lib" />
-      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/lib" />
-      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+2/lib" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_platform_interface-2.5.0/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib" />
       <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1/lib" />

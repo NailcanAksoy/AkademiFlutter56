@@ -68,8 +68,15 @@ flutter:
      - assets/puppy.jpeg
      - assets/dog_silhouette.png
      - assets/headerforsearch.jpg
+     - assets/add_picture.png
+     - assets/pati.png
+     - assets/pati2.png
+     - assets/pati3.jpeg
+     - assets/take_image.png
+     - assets/paws.png
+     - assets/paws2.png
 
-  # An image asset can refer to one or more resolution-specific "variants", see
+    # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
   # For details regarding adding assets from package dependencies, see

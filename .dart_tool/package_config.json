@@ -99,7 +99,7 @@
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -123,7 +123,7 @@
     },
     {
       "name": "image_picker_ios",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+2",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -236,7 +236,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-05-20T13:10:13.872878Z",
+  "generated": "2022-05-23T15:58:39.219009Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }
