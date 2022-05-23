@@ -128,6 +128,11 @@ Sprint Board Update
 
 Ürün Durumu:
 
+![WhatsApp Image 2022-05-23 at 21 51 13](https://user-images.githubusercontent.com/104436158/169888962-9aa03af0-9fb9-486c-8299-b59bdf8e56b1.jpeg)
+![WhatsApp Image 2022-05-23 at 21 51 13 (1)](https://user-images.githubusercontent.com/104436158/169888967-ee263924-9cbc-4e9e-84f8-ec29161ab6bd.jpeg)
+![WhatsApp Image 2022-05-23 at 21 51 13 (2)](https://user-images.githubusercontent.com/104436158/169888970-3f8dc011-d213-4aad-a69b-5275e1569805.jpeg)
+![WhatsApp Image 2022-05-23 at 21 51 13 (3)](https://user-images.githubusercontent.com/104436158/169888976-f4ff7a31-3a2b-4f90-be48-01ec008bab79.jpeg)
+
 
 
 Sprint Review:
