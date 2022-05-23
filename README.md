@@ -123,20 +123,26 @@ Sprint Board screenshotları:
 
 Sprint Board Update
 
-![Screenshot_1](https://user-images.githubusercontent.com/104436158/169658918-be60a65f-c8f4-44e5-b594-7ca83aac1dc5.png)
+![Screenshot_2](https://user-images.githubusercontent.com/104436158/169869564-ea781f71-7e1c-40f9-b839-5285fe629c8f.png)
 
 
 Ürün Durumu:
 
-Eklenecek
+
 
 Sprint Review:
 
-Yapılacak(22.05.2022)
+Belirlediğimiz plana uymaya devam edilecektir. Ürünün kullanıcı arayüzü ve firebase kısmına yoğunlaşıldı.
+
+Sprint Review Katılımcıları: Furkan Beyaz, Nailcan Aksoy
 
 Sprint Retrospective:
 
-Yapılacak(22.05.2022)
+Uygulamanın özelliklerinde bağzı değişikliklere gidildi.
+
+Okul sınavlarıda göz önünde bulundurularak bir plan oluşturuldu. 
+
+Ürün Tasarım Videosu üzerinde konuşuldu.
 
 
 # Sprint 3
