@@ -1,7 +1,11 @@
-import 'package:flutter/cupertino.dart';
+
+
+// ignore_for_file: deprecated_member_use, prefer_const_constructors, sized_box_for_whitespace
+
 import 'package:flutter/material.dart';
-import 'package:untitled/screen_of_adopt.dart';
-import 'package:untitled/screen_of_add_new_advertise.dart';
+import 'package:untitled/Screen/screen_of_add_new_advertise.dart';
+import 'package:untitled/Screen/screen_of_adopt.dart';
+
 
 class SelectionScreen extends StatelessWidget {
   const SelectionScreen({Key? key}) : super(key: key);
@@ -54,7 +58,8 @@ class ReadySelectionScreenState extends State<ReadySelectionScreen> {
             duration: const Duration(seconds: 2),
             curve: Curves.bounceInOut,
             opacity: _opacity,
-            child: RaisedButton(
+            child:
+            RaisedButton(
                 onPressed: () {
                   Navigator.push(
                       context,

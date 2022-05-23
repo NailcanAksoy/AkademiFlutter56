@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_final_fields, unused_local_variable, prefer_const_constructors, avoid_print, prefer_const_literals_to_create_immutables
+
 import 'package:flutter/material.dart';
 
 class ScreenOfFiltering extends StatefulWidget {

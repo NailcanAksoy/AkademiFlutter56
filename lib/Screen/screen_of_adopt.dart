@@ -1,6 +1,10 @@
+// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
+
 import 'package:flutter/material.dart';
-import 'package:untitled/screen_of_filtering.dart';
-import './modelss/AdvertiseOfPet.dart';
+import 'package:untitled/Screen/screen_of_filtering.dart';
+
+import '../modelss/AdvertiseOfPet.dart';
+
 class AdoptScreen extends StatefulWidget {
   const AdoptScreen({Key? key}) : super(key: key);
 

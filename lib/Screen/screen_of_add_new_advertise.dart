@@ -1,4 +1,4 @@
-import 'dart:io';
+// ignore_for_file: unused_field, unused_local_variable, deprecated_member_use, prefer_const_constructors_in_immutables, prefer_final_fields, prefer_const_constructors, avoid_print
 
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
