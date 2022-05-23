@@ -48,10 +48,6 @@ Uygulamamız ile yardıma muhtaç hayvanlar ile hayvanseverleri buluşturacağı
 
 -Uygulamanın renk teması ve fotoğraflar kararlaştırıldı.
 
-## Product  Backlog URL
-
-Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
-
 -Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
 
 -Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 35 puanlık backlog bulunmaktadır. 
@@ -59,6 +55,10 @@ Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
 -Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın çeyreğinden az tutulmuştur.
 
 -Story'ler yapılacak işlere bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+## Product  Backlog URL
+
+Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
 
 ## Daily Scrum 
 
