@@ -64,7 +64,7 @@ Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
 
 -Daily scrumlar whatsapp ve discord üzerinden yapılmasına karar verilmiştir.
 
--[Daily scrumlar whatsapp ekran görüntüleri ve discord toplantısı görüntüleri]: https://drive.google.com/drive/folders/11GD4_xDMncDvZlX3niQJ6bgtCn0bvsnr?usp=sharing
+-Daily scrumlar whatsapp ekran görüntüleri ve discord toplantısı görüntüleri: https://drive.google.com/drive/folders/11GD4_xDMncDvZlX3niQJ6bgtCn0bvsnr?usp=sharing
 
 Sprint Board screenshotları:
 
