@@ -121,7 +121,7 @@ Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
 
 Sprint Board screenshotları:
 
-Sprint Board Update
+Sprint Board Update:
 
 ![Screenshot_2](https://user-images.githubusercontent.com/104436158/169869564-ea781f71-7e1c-40f9-b839-5285fe629c8f.png)
 
