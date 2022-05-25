@@ -43,8 +43,6 @@ Widget _LoginHome (BuildContext context)
         prefixIcon: Icon(Icons.security, color: Colors.blue),
         labelStyle: TextStyle(color: Colors.blue.shade200),
         border: OutlineInputBorder(borderRadius: BorderRadius.circular(32.0))
-
-
     ),
     validator:(value){ //kullanici adi girilmeme hatasi
     if(value!.isEmpty){
@@ -67,36 +65,26 @@ Widget _LoginHome (BuildContext context)
           .width,
       padding: EdgeInsets.fromLTRB(20.0, 10.0, 10.0, 15.0),
       onPressed: () { //tiklama ozelligi
-
-
-      },
-
+         },
       child: Text("Login",
         textAlign: TextAlign.center,
         style: TextStyle(color: Colors.white, fontStyle: FontStyle.normal),),
     ),
   );
 
-
   final registerButton = Material(
     elevation: 5.0,
     borderRadius: BorderRadius.circular(30.0),
     color: Colors.blue[300],
     child: MaterialButton(
-      minWidth: MediaQuery
-          .of(context)
-          .size
-          .width,
+      minWidth: MediaQuery.of(context).size.width,
       padding: EdgeInsets.fromLTRB(20.0, 15.0, 20.0, 15.0),
       onPressed: () {},
       child: Text("Register",
         textAlign: TextAlign.center,
         style: TextStyle(color: Colors.white, fontStyle: FontStyle.normal),),
     ),
-
   );
-
-
   return Center(
     child: Container(
       child: Padding(
@@ -105,15 +93,10 @@ Widget _LoginHome (BuildContext context)
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-
             Image.asset("assets/pati.png" ),
-
             SizedBox(height: 10.0,),
-
-
             SizedBox(height: 30.0),
             emailField,
-
             SizedBox(height: 10.0),
             passwordField,
             SizedBox(height: 5.0,),
@@ -126,32 +109,19 @@ Widget _LoginHome (BuildContext context)
                         fontWeight:FontWeight.w500,
                         fontFamily: 'Montserrat',
                         decoration:TextDecoration.underline
-
-
                     ),
                   ),
                 )
             ),
-
-
-
             SizedBox(height: 15.0),
             loginButton,
-
             SizedBox(height: 10.0),
             registerButton
-
-
           ],
         ),
       ),
     ),
   );
-
-
-
-
-
 }
 
 
