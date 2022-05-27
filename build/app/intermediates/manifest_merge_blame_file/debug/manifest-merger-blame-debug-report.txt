@@ -18,7 +18,7 @@
 16    <application
 17        android:name="android.app.Application"
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:18-86
+18-->[androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6f6da31ded36fd59bf0fb59f8c9437af\core-1.6.0\AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_launcher"
 21        android:label="untitled" >
@@ -74,17 +74,17 @@
 63        </provider>
 64
 65        <uses-library
-65-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+65-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 66            android:name="androidx.window.extensions"
-66-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+66-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 67            android:required="false" />
-67-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+67-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 68        <uses-library
-68-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+68-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 69            android:name="androidx.window.sidecar"
-69-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+69-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 70            android:required="false" />
-70-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+70-->[androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 71    </application>
 72
 73</manifest>
