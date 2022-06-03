@@ -1,4 +1,4 @@
-// ignore_for_file: deprecated_member_use, use_key_in_widget_constructors
+// ignore_for_file: deprecated_member_use, use_key_in_widget_constructors, unused_import
 
 import 'package:flutter/material.dart';
 
@@ -25,7 +25,8 @@ class MyApp extends StatelessWidget {
             ),
           ),
           ),
-          body: LoginHome()),
+          body: LoginHome()
+      ),
     );
   }
 }

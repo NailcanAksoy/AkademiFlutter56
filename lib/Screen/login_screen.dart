@@ -1,6 +1,10 @@
 // ignore_for_file: deprecated_member_use, unused_local_variable, use_key_in_widget_constructors, must_be_immutable, non_constant_identifier_names, prefer_const_constructors, avoid_unnecessary_containers
 
 import 'package:flutter/material.dart';
+import 'package:untitled/Screen/Register.dart';
+
+import 'screen _select_to_adopt_or_advertise.dart';
+
 
 class LoginHome extends StatelessWidget {
   late String username;
@@ -11,7 +15,6 @@ class LoginHome extends StatelessWidget {
     return _LoginHome(context);
   }
 }
-
 Widget _LoginHome (BuildContext context)
 {
   final emailField = TextFormField(
@@ -21,7 +24,8 @@ Widget _LoginHome (BuildContext context)
         labelText: "User Email",
         prefixIcon: Icon(Icons.mail, color: Colors.blue),
         labelStyle: TextStyle(color: Colors.blue.shade200),
-        border: OutlineInputBorder(borderRadius: BorderRadius.circular(32.0))
+        border:
+        OutlineInputBorder(borderRadius: BorderRadius.circular(32.0))
     ),
     validator:(value){ //kullanici adi girilmeme hatasi
       if(value!.isEmpty){
@@ -42,9 +46,9 @@ Widget _LoginHome (BuildContext context)
         labelText: "Password",
         prefixIcon: Icon(Icons.security, color: Colors.blue),
         labelStyle: TextStyle(color: Colors.blue.shade200),
-        border: OutlineInputBorder(borderRadius: BorderRadius.circular(32.0))
-    ),
-    validator:(value){ //kullanici adi girilmeme hatasi
+        border:
+        OutlineInputBorder(borderRadius: BorderRadius.circular(32.0))
+    ), validator:(value){ //kullanici adi girilmeme hatasi
     if(value!.isEmpty){
       return "Please enter password";
     }
@@ -53,7 +57,6 @@ Widget _LoginHome (BuildContext context)
     }
   },
   );
-
   final loginButton = Material(
     elevation: 5.0,
     borderRadius: BorderRadius.circular(21),
@@ -64,14 +67,17 @@ Widget _LoginHome (BuildContext context)
           .size
           .width,
       padding: EdgeInsets.fromLTRB(20.0, 10.0, 10.0, 15.0),
-      onPressed: () { //tiklama ozelligi
-         },
+      onPressed: () {  Navigator.push(context,
+          MaterialPageRoute(
+          builder: (context) =>SelectionScreen()
+          )
+      );
+      },
       child: Text("Login",
         textAlign: TextAlign.center,
         style: TextStyle(color: Colors.white, fontStyle: FontStyle.normal),),
     ),
   );
-
   final registerButton = Material(
     elevation: 5.0,
     borderRadius: BorderRadius.circular(30.0),
@@ -79,10 +85,19 @@ Widget _LoginHome (BuildContext context)
     child: MaterialButton(
       minWidth: MediaQuery.of(context).size.width,
       padding: EdgeInsets.fromLTRB(20.0, 15.0, 20.0, 15.0),
-      onPressed: () {},
+      onPressed: () {
+        Navigator.push(context,
+          MaterialPageRoute(
+          builder: (context) => RegisterPage(title: '',
+          )
+          )
+        );
+      },
       child: Text("Register",
         textAlign: TextAlign.center,
-        style: TextStyle(color: Colors.white, fontStyle: FontStyle.normal),),
+        style: TextStyle(color: Colors.white, fontStyle: FontStyle.normal
+        ),
+      ),
     ),
   );
   return Center(

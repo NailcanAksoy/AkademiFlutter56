@@ -1,16 +1,40 @@
 -- Merging decision tree log ---
 application
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml:3:4-33:19
+MERGED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
 MERGED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6f6da31ded36fd59bf0fb59f8c9437af\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6f6da31ded36fd59bf0fb59f8c9437af\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\98237488c78ed09e862cf4c103af85de\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\98237488c78ed09e862cf4c103af85de\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0ea36af7908bdfd4f62afca0159e8f61\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0ea36af7908bdfd4f62afca0159e8f61\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ac1caff124ff4b97f2046e2f0ad41e7c\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ac1caff124ff4b97f2046e2f0ad41e7c\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fc613d420fa656af9737f798db26c027\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fc613d420fa656af9737f798db26c027\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9fb30ff166f38302c902b12693ecce8f\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9fb30ff166f38302c902b12693ecce8f\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fde8609a472e356a74bbb4f40cd78ee0\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fde8609a472e356a74bbb4f40cd78ee0\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\beb8c9ca4a1e397f96d783b8eedf065f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\beb8c9ca4a1e397f96d783b8eedf065f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6f6da31ded36fd59bf0fb59f8c9437af\core-1.6.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fde8609a472e356a74bbb4f40cd78ee0\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:name
 		INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml
 manifest
@@ -19,27 +43,58 @@ INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidMa
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml:1:1-34:12
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml:1:1-34:12
 MERGED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
 MERGED from [:flutter_plugin_android_lifecycle] D:\Android Project\AkademiFlutter56\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_secure_storage] D:\Android Project\AkademiFlutter56\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\7562cd46fbf77d3dc7c30a2bb2af6214\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e097877d684246b8ce1628fefd9a30d2\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\1e7b83793a57f34820a698b736c76cf4\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\158f9dccb847db647f2690334bedab8d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ba3187a0bfcc7f7e3135274242b4e089\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0d2a235287b006483cf9a391354c1fba\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2da0dd36e1443cc67ec362c57e69b633\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6f6da31ded36fd59bf0fb59f8c9437af\core-1.6.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\53d2df4824ab2d316172a8a3faf72bf4\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d6889412c7afafad1b107cceee8621e7\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a86082c952a2ebb50a7e8a0f9d1dac01\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\bcc8cfaa359f6a20c43ce6c2c039ad31\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\22a8a6a2fcb515e72abbc2b372ddce13\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\98237488c78ed09e862cf4c103af85de\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\39bed1ecee31ad2687dbc823b9d80cb2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\40509b1fe7df06b1298d051183b094dc\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a6073c48111d6672e98d40cdd9dae5e1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\041b55b7e44135f73083475110ed30bc\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9c509f27951468d92880d1c73ee870a7\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0ea36af7908bdfd4f62afca0159e8f61\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ac1caff124ff4b97f2046e2f0ad41e7c\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\90373141da0cea7dcaaa04dbcc888e2b\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fe144d8267308384505ebf3474420de3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fc613d420fa656af9737f798db26c027\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cf7607e5b44b0c7b3ec0570902d9b339\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9fb30ff166f38302c902b12693ecce8f\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\909d9bef7f80fe10fc67f588438c324f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\8614026fb233587ccad1549977e5ad71\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\7201d92297bf82e1df797b9aca9ff0cc\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\f6fe98b32c590a24346fc3146757a52e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c64a6c0e862373ddf1c9f3660b8d2be3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\23822285565b91f0a9d8b6996a4dd25e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e1bf30b0c5b5098b1ef0f6301f2fff6c\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ad6b4d33a52e9b142c365821ab81f24c\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ad904acc32821dc577e6b996f704d2fa\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\36ff06aafac0d73f62687868d763b6d7\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\3ac6f072f887336a23fba180c697578f\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ee819e8fbf30ff1111d0cef512439280\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c1c3bd32a7abfc4eec0ae5dc27749189\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fde8609a472e356a74bbb4f40cd78ee0\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ab2761379ed849d62911d13516e236e2\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e6b2a15ee26d242f884f422345e2ff96\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2d384ffaba660fb3bd750f2366075b5a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\dd452c36a31a9ef867f31672c5039899\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a4bddbb3772cfbe610690d8532b3166d\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\f99a266857fad6975a102f2d84b2dab7\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fb3aedc7f926ffa8c8a9b8eac1718288\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\beb8c9ca4a1e397f96d783b8eedf065f\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\897885016fa8d8eac65938ed48ca04e0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e89b3cb22cbb7375687baf0393eb4db5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\5c4c29db382496f4e636e5e22b721e5d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a9272361a6cddfb6b2cafccb24f778ff\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\31d705edac66e3c598ed425d3f404781\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6c4099f45f84ccfa603e25b57cb857ea\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c76ea5ad294408ac7472aa17f6a4c403\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\97544431a032bf1d45a82dc49e567176\jetified-grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e3b2c328e3d0dea234154af6c9673548\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -61,48 +116,110 @@ uses-sdk
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] D:\Android Project\AkademiFlutter56\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] D:\Android Project\AkademiFlutter56\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_secure_storage] D:\Android Project\AkademiFlutter56\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:flutter_secure_storage] D:\Android Project\AkademiFlutter56\build\flutter_secure_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\7562cd46fbf77d3dc7c30a2bb2af6214\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\7562cd46fbf77d3dc7c30a2bb2af6214\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e097877d684246b8ce1628fefd9a30d2\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e097877d684246b8ce1628fefd9a30d2\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\1e7b83793a57f34820a698b736c76cf4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\1e7b83793a57f34820a698b736c76cf4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\158f9dccb847db647f2690334bedab8d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\158f9dccb847db647f2690334bedab8d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ba3187a0bfcc7f7e3135274242b4e089\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ba3187a0bfcc7f7e3135274242b4e089\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0d2a235287b006483cf9a391354c1fba\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0d2a235287b006483cf9a391354c1fba\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2da0dd36e1443cc67ec362c57e69b633\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2da0dd36e1443cc67ec362c57e69b633\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6f6da31ded36fd59bf0fb59f8c9437af\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6f6da31ded36fd59bf0fb59f8c9437af\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\53d2df4824ab2d316172a8a3faf72bf4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\53d2df4824ab2d316172a8a3faf72bf4\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d6889412c7afafad1b107cceee8621e7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d6889412c7afafad1b107cceee8621e7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a86082c952a2ebb50a7e8a0f9d1dac01\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a86082c952a2ebb50a7e8a0f9d1dac01\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\bcc8cfaa359f6a20c43ce6c2c039ad31\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\bcc8cfaa359f6a20c43ce6c2c039ad31\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\22a8a6a2fcb515e72abbc2b372ddce13\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\22a8a6a2fcb515e72abbc2b372ddce13\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\98237488c78ed09e862cf4c103af85de\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\98237488c78ed09e862cf4c103af85de\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\39bed1ecee31ad2687dbc823b9d80cb2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\39bed1ecee31ad2687dbc823b9d80cb2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\40509b1fe7df06b1298d051183b094dc\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\40509b1fe7df06b1298d051183b094dc\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a6073c48111d6672e98d40cdd9dae5e1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a6073c48111d6672e98d40cdd9dae5e1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\041b55b7e44135f73083475110ed30bc\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\041b55b7e44135f73083475110ed30bc\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9c509f27951468d92880d1c73ee870a7\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9c509f27951468d92880d1c73ee870a7\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0ea36af7908bdfd4f62afca0159e8f61\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0ea36af7908bdfd4f62afca0159e8f61\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ac1caff124ff4b97f2046e2f0ad41e7c\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ac1caff124ff4b97f2046e2f0ad41e7c\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\90373141da0cea7dcaaa04dbcc888e2b\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\90373141da0cea7dcaaa04dbcc888e2b\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fe144d8267308384505ebf3474420de3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fe144d8267308384505ebf3474420de3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fc613d420fa656af9737f798db26c027\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fc613d420fa656af9737f798db26c027\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cf7607e5b44b0c7b3ec0570902d9b339\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cf7607e5b44b0c7b3ec0570902d9b339\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9fb30ff166f38302c902b12693ecce8f\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\9fb30ff166f38302c902b12693ecce8f\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\909d9bef7f80fe10fc67f588438c324f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\909d9bef7f80fe10fc67f588438c324f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\8614026fb233587ccad1549977e5ad71\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\8614026fb233587ccad1549977e5ad71\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\7201d92297bf82e1df797b9aca9ff0cc\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\7201d92297bf82e1df797b9aca9ff0cc\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\f6fe98b32c590a24346fc3146757a52e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\f6fe98b32c590a24346fc3146757a52e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c64a6c0e862373ddf1c9f3660b8d2be3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c64a6c0e862373ddf1c9f3660b8d2be3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\23822285565b91f0a9d8b6996a4dd25e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\23822285565b91f0a9d8b6996a4dd25e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e1bf30b0c5b5098b1ef0f6301f2fff6c\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e1bf30b0c5b5098b1ef0f6301f2fff6c\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ad6b4d33a52e9b142c365821ab81f24c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ad6b4d33a52e9b142c365821ab81f24c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ad904acc32821dc577e6b996f704d2fa\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ad904acc32821dc577e6b996f704d2fa\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\36ff06aafac0d73f62687868d763b6d7\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\36ff06aafac0d73f62687868d763b6d7\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\3ac6f072f887336a23fba180c697578f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\3ac6f072f887336a23fba180c697578f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ee819e8fbf30ff1111d0cef512439280\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ee819e8fbf30ff1111d0cef512439280\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c1c3bd32a7abfc4eec0ae5dc27749189\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c1c3bd32a7abfc4eec0ae5dc27749189\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fde8609a472e356a74bbb4f40cd78ee0\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fde8609a472e356a74bbb4f40cd78ee0\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ab2761379ed849d62911d13516e236e2\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\ab2761379ed849d62911d13516e236e2\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e6b2a15ee26d242f884f422345e2ff96\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e6b2a15ee26d242f884f422345e2ff96\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2d384ffaba660fb3bd750f2366075b5a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2d384ffaba660fb3bd750f2366075b5a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\dd452c36a31a9ef867f31672c5039899\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\dd452c36a31a9ef867f31672c5039899\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a4bddbb3772cfbe610690d8532b3166d\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a4bddbb3772cfbe610690d8532b3166d\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\f99a266857fad6975a102f2d84b2dab7\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\f99a266857fad6975a102f2d84b2dab7\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fb3aedc7f926ffa8c8a9b8eac1718288\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\fb3aedc7f926ffa8c8a9b8eac1718288\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\beb8c9ca4a1e397f96d783b8eedf065f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\beb8c9ca4a1e397f96d783b8eedf065f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\897885016fa8d8eac65938ed48ca04e0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\897885016fa8d8eac65938ed48ca04e0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e89b3cb22cbb7375687baf0393eb4db5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e89b3cb22cbb7375687baf0393eb4db5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\5c4c29db382496f4e636e5e22b721e5d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\5c4c29db382496f4e636e5e22b721e5d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a9272361a6cddfb6b2cafccb24f778ff\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\a9272361a6cddfb6b2cafccb24f778ff\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\31d705edac66e3c598ed425d3f404781\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\31d705edac66e3c598ed425d3f404781\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6c4099f45f84ccfa603e25b57cb857ea\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\6c4099f45f84ccfa603e25b57cb857ea\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c76ea5ad294408ac7472aa17f6a4c403\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c76ea5ad294408ac7472aa17f6a4c403\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\97544431a032bf1d45a82dc49e567176\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\97544431a032bf1d45a82dc49e567176\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e3b2c328e3d0dea234154af6c9673548\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\e3b2c328e3d0dea234154af6c9673548\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml
 INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -113,8 +230,50 @@ INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidM
 		INJECTED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:14:5-67
 	android:name
 		ADDED from D:\Android Project\AkademiFlutter56\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\Android Project\AkademiFlutter56\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\Android Project\AkademiFlutter56\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\Android Project\AkademiFlutter56\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
 ADDED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
@@ -132,14 +291,108 @@ ADDED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\ima
 	android:name
 		ADDED from [:image_picker_android] D:\Android Project\AkademiFlutter56\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c15149140bcc27b70424f541b52a2f41\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\2422cdb5791584e06b7d12480d35e97b\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\97544431a032bf1d45a82dc49e567176\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\97544431a032bf1d45a82dc49e567176\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\0fff4abbe4daa939b228e5b74b9717ad\jetified-firebase-auth-21.0.4\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.1.2] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\d9938b44ea8b738e5b50bcd83a964e0d\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c0d57a6c6dc792300b7a51a6bda4cdd8\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\c7060befd4ecdba979caa4400fe6a85b\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Nailcan\.gradle\caches\transforms-2\files-2.1\cc4c24de1c9b1acca7bd93b662dc9144\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58

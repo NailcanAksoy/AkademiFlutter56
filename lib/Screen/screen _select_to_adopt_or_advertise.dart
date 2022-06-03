@@ -49,7 +49,7 @@ class ReadySelectionScreenState extends State<ReadySelectionScreen> {
             curve: Curves.easeInOut,
             opacity: _opacity,
             child:  Image(
-        image: AssetImage ('assets/puppy.jpeg'),         // Köpek Resmı
+        image: AssetImage ('assets/puppy.jpeg'), // Köpek Resmi
               width: double.infinity,
               fit: BoxFit.cover,
             ),
