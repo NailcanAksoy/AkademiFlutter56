@@ -154,13 +154,9 @@ Okul sınavlarıda göz önünde bulundurularak bir plan oluşturuldu.
 
 -Discord üzerinden haftalık toplantılar düzenlendi.
 
--Kullanıcı arayüzü tasarımı bitirildi.
-
--Yeniden detaylı bir şekilde görev dağılımı yapıldı.
-
 -Ürünün özelliklerinde değişikliklere gidildi.
 
--Firebase tasarımı tamamlandı.
+-Ürünün videosu hazırlanmaya başladı.
 
 -Sprint içinde tamamlanması tahmin edilen puan: 5 Puan
 
