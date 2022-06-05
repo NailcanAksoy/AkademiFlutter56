@@ -151,3 +151,59 @@ Okul sınavlarıda göz önünde bulundurularak bir plan oluşturuldu.
 
 
 # Sprint 3
+
+-Discord üzerinden haftalık toplantılar düzenlendi.
+
+-Kullanıcı arayüzü tasarımı bitirildi.
+
+-Yeniden detaylı bir şekilde görev dağılımı yapıldı.
+
+-Ürünün özelliklerinde değişikliklere gidildi.
+
+-Firebase tasarımı tamamlandı.
+
+-Sprint içinde tamamlanması tahmin edilen puan: 5 Puan
+
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 35 puanlık backlog bulunmaktadır. 
+
+-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın çeyreğinden az tutulmuştur.
+
+-Story'ler yapılacak işlere bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+## Product  Backlog URL
+
+Product  Backlog URL: https://trello.com/b/QR8cvlVD/can-dostlar%C4%B1m
+
+## Daily Scrum 
+
+-Daily scrumlar whatsapp ve discord üzerinden yapılmasına karar verilmiştir.
+
+-Daily scrumlar whatsapp ekran görüntüleri ve discord toplantısı görüntüleri: https://drive.google.com/drive/folders/11GD4_xDMncDvZlX3niQJ6bgtCn0bvsnr?usp=sharing
+
+Sprint Board screenshotları:
+
+Sprint Board Update:
+
+![Screenshot_2](https://user-images.githubusercontent.com/104436158/172058957-1ad47483-5341-461a-bfc7-877d02b9c860.png)
+
+
+
+Ürün Durumu:
+
+![WhatsApp Image 2022-05-23 at 21 51 13](https://user-images.githubusercontent.com/104436158/169888962-9aa03af0-9fb9-486c-8299-b59bdf8e56b1.jpeg)
+![WhatsApp Image 2022-05-23 at 21 51 13 (1)](https://user-images.githubusercontent.com/104436158/169888967-ee263924-9cbc-4e9e-84f8-ec29161ab6bd.jpeg)
+![WhatsApp Image 2022-05-23 at 21 51 13 (2)](https://user-images.githubusercontent.com/104436158/169888970-3f8dc011-d213-4aad-a69b-5275e1569805.jpeg)
+![WhatsApp Image 2022-05-23 at 21 51 13 (3)](https://user-images.githubusercontent.com/104436158/169888976-f4ff7a31-3a2b-4f90-be48-01ec008bab79.jpeg)
+
+
+
+Sprint Review:
+
+Belirlediğimiz plana uymaya devam edilecektir. Ürününde son değişiklikler yapıldı.
+
+Sprint Review Katılımcıları: Furkan Beyaz, Nailcan Aksoy,Furkan Avcu, Yusuf Tanrıverdi
+
+Sprint Retrospective:
+
+Son sprint olduğu için yapılmadı.
+
