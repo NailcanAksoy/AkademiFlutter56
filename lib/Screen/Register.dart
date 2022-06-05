@@ -1,6 +1,8 @@
 // ignore_for_file: prefer_const_constructors, avoid_print, file_names
 
 import 'package:flutter/material.dart';
+import 'package:untitled/Auth/Auth.dart';
+import 'package:untitled/Screen/login_screen.dart';
 
 
 class RegisterPage extends StatefulWidget {
@@ -11,10 +13,19 @@ class RegisterPage extends StatefulWidget {
   State<RegisterPage> createState() => _RegisterPageState();
 }
 class _RegisterPageState extends State<RegisterPage> {
+  final TextEditingController _nameController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
+  final TextEditingController _passwordController = TextEditingController();
+  final TextEditingController _phonenumberController =
+  TextEditingController();
+
+  AuthService _authService = AuthService();
+
   late String email;
   late String username;
   late String password;
   late String phone;
+
 
   @override
   Widget build(BuildContext context) {
@@ -33,6 +44,7 @@ class _RegisterPageState extends State<RegisterPage> {
             children: <Widget>[
               Padding(padding: EdgeInsets.symmetric(vertical: 13.0, horizontal: 10.0), child:
               TextField(
+                controller: _emailController,
                 decoration: InputDecoration(
                   labelText: 'Email',
                   prefixIcon: Icon(Icons.email),
@@ -52,6 +64,7 @@ class _RegisterPageState extends State<RegisterPage> {
               ),
               Padding(padding: EdgeInsets.symmetric(vertical: 13.0, horizontal: 10.0), child:
               TextField(
+                controller: _nameController,
                 decoration: InputDecoration(
                   labelText: 'Username',
                   prefixIcon: Icon(Icons.verified_user),
@@ -71,6 +84,7 @@ class _RegisterPageState extends State<RegisterPage> {
               ),
               Padding(padding: EdgeInsets.symmetric(vertical: 13.0, horizontal: 10.0), child:
               TextField(
+                controller: _passwordController,
                 decoration: InputDecoration(
                   labelText: 'Password',
                   prefixIcon: Icon(Icons.password_rounded),
@@ -88,22 +102,6 @@ class _RegisterPageState extends State<RegisterPage> {
                 },
               ),
               ),
-              Padding(padding: EdgeInsets.symmetric(vertical: 13.0, horizontal: 10.0), child:
-              TextField(
-                decoration: InputDecoration(
-                  labelText: 'Phone Number',
-                  prefixIcon: Icon(Icons.phone),
-                  enabledBorder: OutlineInputBorder(
-                    borderSide: BorderSide(
-                      color: Colors.blueAccent,
-                    ),
-                  ),
-                ),
-                onChanged: (value){
-                  phone=value;
-                },
-              ),
-              ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 6.0, vertical: 8.0),
                 child: MaterialButton(
@@ -112,10 +110,11 @@ class _RegisterPageState extends State<RegisterPage> {
                   ),),
                   color: Colors.blue,
                   onPressed: () {
-                    print(email);
-                    print(username);
-                    print(password);
-                    print(phone);
+                    _authService.createPerson(_nameController.text,
+                        _emailController.text,
+                        _phonenumberController.text,
+                        _passwordController.text).then((value) {return Navigator.push(context, MaterialPageRoute(builder: (context) => LoginHome()));
+                    });
                   },
                 ),
               ),
